@@ -45,7 +45,7 @@ Olympus는 대표님과 AI 에이전트들이 Slack을 중심으로 명령을 �
   - 포트: `9002`
   - 이미지: `openclaw:local`
   - 모델: `gpt-5.5`
-  - 엔진 응답값: `codex`
+  - 엔진: OpenClaw (내부적으로 gpt-5.5 호출)
 - `hermes-agent-23t6-athena-agent-1`
   - 역할: Athena
   - 포트: `9003`
